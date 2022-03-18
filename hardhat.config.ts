@@ -49,7 +49,7 @@ const config: HardhatUserConfig = {
       apiKey: ETHERSCAN_API_KEY,
     },
   },
-  solidity: '0.8.12',
+  solidity: '0.8.13',
 };
 
 export default config;
